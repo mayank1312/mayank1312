@@ -5,6 +5,18 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" width="350" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/mayank1312?tab=followers">
+    <img src="https://img.shields.io/github/followers/mayank1312?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/mayank1312">
+    <img src="https://img.shields.io/github/stars/mayank1312?style=social" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/mayank1312">
+    <img src="https://komarev.com/ghpvc/?username=mayank1312&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
+
 - 🔭 I’m currently working on: **Email Saas**, an alternative to Your Normal Nd  Boring Email App
 - 🌱 Learning: **AI/ML**, **TypeScript**, and **system design**
 - 💬 Ask me about: **Full-stack dev, API integrations, and scalable app architectures**
