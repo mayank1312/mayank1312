@@ -7,7 +7,6 @@
 
 
 
-- 🔭 I’m currently working on: **Email Saas**, an alternative to Your Normal Nd  Boring Email App
 - 🌱 Learning: **AI/ML**, **TypeScript**, and **system design**
 - 💬 Ask me about: **Full-stack dev, API integrations, and scalable app architectures**
 - 📫 How to reach me: **mayankdhingra1312@gmail.com**
